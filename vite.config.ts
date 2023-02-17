@@ -48,6 +48,7 @@ export default defineConfig(({ command, mode }) => {
       },
     },
     server: {
+      port: {{port}},
       host: true, // 监听所有地址
     },
     css: {
