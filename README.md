@@ -1,4 +1,6 @@
-# Vite +  Vue 3 + TypeScript + VueRouter +  Pinia + Naive UI
+# {{projectName}}
+
+{{description}}
 
 ### Frameworks
 
